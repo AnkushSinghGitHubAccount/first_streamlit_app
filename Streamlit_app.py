@@ -3,6 +3,7 @@ import pandas
 import requests
 import snowflake.connector
 import urllib.error
+pip install URLError
 import URLError
 
 
